@@ -709,6 +709,14 @@ h2 {
     line-height: 1.4em;
 }
 
+#bloc-2-services h2 {
+    font-size: 15px;
+text-transform: uppercase;
+font-weight: 700;
+color: #333333!important;
+}
+
+
 h3 {
     font-size: 15px;
     text-transform: uppercase;
@@ -1039,4 +1047,22 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.services-title {
+    font-size: 25px;
+}
+
+.services-quote {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.services-quote-end {
+    font-size: 15px;
+    font-style: normal;
+}
+
+.portfolio-title {
+    font-size: 25px;
 }

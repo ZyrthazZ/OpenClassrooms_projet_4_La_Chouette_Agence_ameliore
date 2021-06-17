@@ -1066,3 +1066,8 @@ h4 {
 .portfolio-title {
     font-size: 25px;
 }
+
+.row-list {
+    display: flex;
+    justify-content: space-between;
+}
